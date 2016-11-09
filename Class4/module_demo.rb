@@ -32,4 +32,3 @@ bob = Engineer.new("Bob", 17)
 bob.program?
 bob.read
 puts bob.getBookNumber
-puts Knowledge.program
